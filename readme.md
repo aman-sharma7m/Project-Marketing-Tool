@@ -1,4 +1,4 @@
-# Project Marketing Tool
+# Project-Marketing-Tool
 
 A gen-ai tool to generate tweet, sales copy and product description based on the nature of the age group. Also, you can decide the word limit. It'll generate the following.
 
